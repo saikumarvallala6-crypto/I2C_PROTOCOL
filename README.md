@@ -295,9 +295,11 @@ Possible future enhancements include
 
 RTL Design | FPGA | VLSI Design Verification
 
-GitHub: *(Add your GitHub profile link here)*
+GitHub: https://github.com/saikumarvallala6-crypto
 
-LinkedIn: *(Add your LinkedIn profile link here)*
+LinkedIn: www.linkedin.com/in/vallalasaikumar
+
+
 
 ---
 
